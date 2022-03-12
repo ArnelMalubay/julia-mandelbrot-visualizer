@@ -28,4 +28,4 @@ on the terminal and use the app on your local server.
 
 OR
 
-2. Access the app through Streamlit Sharing via this link: 
+2. Access the app through Streamlit Sharing through this [link](https://docs.google.com/document/d/13GUHm_w0GId1LvL_Fl64-DmxpoKXOvGyISEK-quLo_s/edit?usp=sharing).
