@@ -2,7 +2,7 @@
 
 
 <p align="center"><img src="sample_images/samp1.png" width="600"/></p>
-<p align="center">Julia set for c = -0.11564378757515037 + 0.8690819138276553i</p>
+<p align="center">**Julia set for c = -0.11564378757515037 + 0.8690819138276553i**</p>
 
 ![](sample_images/samp3.png)
 <p align="center">Julia set for c = -0.512511498387847167 + 0.521295573094847167i</p>
