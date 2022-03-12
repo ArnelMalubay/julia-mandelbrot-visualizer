@@ -1,17 +1,16 @@
 # Julia and Mandelbrot Set Visualizer
 
-
 <p align="center"><img src="sample_images/samp1.png" width="600"/></p>
-<p align="center"><h5>Julia set for c = -0.11564378757515037 + 0.8690819138276553i</h5></p>
+<p align="center"><strong>Julia set for c = -0.11564378757515037 + 0.8690819138276553i</strong></p>
 
-![](sample_images/samp3.png)
-<p align="center">Julia set for c = -0.512511498387847167 + 0.521295573094847167i</p>
+<p align="center"><img src="sample_images/samp3.png" width="600"/></p>
+<p align="center"><strong>Julia set for c = -0.512511498387847167 + 0.521295573094847167i</strong></p>
 
-![](sample_images/samp6.png)
-<p align="center">Julia set for c = -0.5012149298597195 - 0.5637838176352705i</p>
+<p align="center"><img src="sample_images/samp6.png" width="600"/></p>
+<p align="center"><strong>Julia set for c = -0.5012149298597195 - 0.5637838176352705i</strong></p>
 
-![](sample_images/samp7.png)
-<p align="center">Julia set for c = -0.8 + 0.156i</p>
+<p align="center"><img src="sample_images/samp7.png" width="600"/></p>
+<p align="center"><strong>Julia set for c = -0.8 + 0.156i</strong></p>
 
 This is a simple web app that allows the user to visualize Julia sets and the Mandelbrot set. A vectorized implementation of the escape-time algorithm is used to plot the figures.
 
