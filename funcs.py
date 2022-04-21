@@ -69,6 +69,6 @@ def plot_mandelbrot_set(c, cmap = 'magma', banding = True, show_tick_marks = Fal
   else:
     ax.set_xticks([])
     ax.set_yticks([])  
-  ax.plot((1200 / 3) * (np.real(c) + 2), -(1200 / 3) * (np.imag(c) - 1.5), '.')
+  ax.plot((1200 / 3) * (np.real(c) + 2), -(1200 / 3) * (np.imag(c) - 1.5), '.', markersize = 3)
   return fig
 
