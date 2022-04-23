@@ -7,7 +7,7 @@ from funcs import plot_julia_set, plot_mandelbrot_set
 if __name__ == '__main__':
 
     st.title('Julia and Mandelbrot Set Visualizer')
-    st.write('This applet allows you to visualize the Julia and Mandelbrot Sets corresponding to a complex number of your choice. A vectorized implementation of the escape-time algorithm was used to plot the figures. To get sharper images, try to increase the pixel density and maximum number of iterations. You also have the option to enable color bands and choose your desired colormaps in the resulting figures. Enjoy!')
+    st.write('This applet allows you to visualize the (filled) Julia sets of the form $f(z)=z^2+c$ where $c$ is a complex number of your choice. A vectorized implementation of the escape-time algorithm was used to plot the figures. To get sharper images, try to increase the pixel density and maximum number of iterations. You also have the option to enable color bands or tick marks and choose your desired colormaps in the resulting figures. Finally, you can also display the Mandelbrot set and see whether $c$ is inside it or not. Enjoy!')
 
     # Configuring the sidebar widgets
     with st.sidebar:
